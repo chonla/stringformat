@@ -1,0 +1,31 @@
+{
+  "name": "@chonla/format",
+  "version": "1.0.0",
+  "description": "String formatter.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chonla/stringformat.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "string",
+    "format",
+    "chonla"
+  ],
+  "author": {
+    "name": "Chonlasith Jucksriporn",
+    "email": "chonlasith@gmail.com",
+    "url": "https://github.com/chonla"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chonla/stringformat/issues"
+  },
+  "homepage": "https://github.com/chonla/stringformat#readme",
+  "devDependencies": {
+    "jest": "^25.2.4"
+  }
+}
