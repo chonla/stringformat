@@ -1,5 +1,5 @@
 {
-  "name": "@chonla/format",
+  "name": "@chonla/stringformat",
   "version": "1.0.0",
   "description": "String formatter.",
   "main": "index.js",
