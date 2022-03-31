@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/chonla/stringformat#readme",
   "devDependencies": {
-    "jest": "^25.2.4"
+    "jest": "^27.5.1"
   }
 }
